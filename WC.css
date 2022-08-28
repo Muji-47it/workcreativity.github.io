@@ -1,0 +1,222 @@
+*
+{
+    box-sizing: border-box;
+}
+.body {
+    margin: 0%;
+}
+
+.Home {
+    position: static;
+    top: 10px;
+    color: white;
+    background-color: rgb(22, 21, 21);
+    height: 700px;
+}
+
+.Home a {
+    text-decoration: none;
+    color: white;
+}
+
+.alphacolor {
+    color: rgb(5, 228, 228);
+}
+
+.header {
+    font-size: 30px;
+    position: relative;
+    left: 70px;
+    float: left;
+}
+
+.homenav {
+    float: left;
+    position: relative;
+    left: 35%;
+    list-style: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    top: 35px;
+}
+
+.homelink {
+    float: left;
+    margin-left: 35px;
+}
+
+a:hover {
+    cursor: pointer;
+    color: rgb(5, 228, 228);
+}
+
+.works {
+    position: relative;
+    top: 150px;
+    display: block;
+    margin: auto;
+    width: 54%;
+    box-sizing: border-box;
+    font-size: 130px;
+    left: 10%;
+}
+
+.creative {
+    position: relative;
+    top: 100px;
+    display: block;
+    margin: auto;
+    width: 54%;
+    box-sizing: border-box;
+    font-size: 130px;
+    left: 10%;
+}
+
+
+
+
+.Portfolio p {
+    font-size: 50px;
+    position: relative;
+    display: inline;
+    margin-left: 90px;
+    width: 15%;
+    top: 70px
+}
+
+.portfolionav {
+    position: relative;
+    display: inline-block;
+    top: 70px;
+    left: 40%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.portfoliolink {
+    display: inline-block;
+    list-style: none;
+    margin-left: 50px;
+}
+
+.portfoliolink a:hover {
+    color: rgb(5, 228, 228);
+}
+
+hr {
+    margin: 80px;
+    margin-top: 100px;
+    color: white;
+}
+
+.img {
+    width: 300px;
+    height: auto;
+    margin-bottom: 3%;
+}
+#imgcontainer
+{
+    column-count: 4;
+    width: 90%;
+    margin-left: 6%;
+}
+
+
+
+
+
+#work {
+    height: 1000px;
+    background-color: rgb(22, 21, 21);
+    position: relative;
+    margin-top: 5%;
+    color: white;
+}
+
+#webdesign {
+    font-size: 50px;
+    display: inline-block;
+    margin-left: 100px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#lorem1 {
+    width: 60%;
+    float: right;
+    margin-right: 10%;
+    margin-top: 5%;
+}
+
+#hr {
+    height: 2px;
+    color: aqua;
+}
+
+
+
+
+.about
+{
+    height: 500px;
+}
+#myintro {
+    position: relative;
+    width: 16%;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: 7%;
+    float: left;
+}
+
+.about p {
+    position: relative;
+    display: inline-block;
+    width: 70%;
+    top: 200px;
+    right: 9%;
+    font-size: 20px;
+}
+
+.about img {
+    position: relative;
+    float: right;
+    right: 5%;
+    top: 60px;
+    height: 250px;
+}
+
+.about hr {
+    margin-top: 12%;
+}
+.contact h1{
+    margin-left: 7%;
+    font-size: 60px;
+    display: inline-block;
+    margin-bottom: 0%;
+}
+#via
+{
+    display: inline-block;
+    margin-left: 20%;
+    font-size: 20px;
+    margin-bottom: 0%;
+}
+#vialink
+{
+    display: inline-block;
+    text-decoration: none;
+    color: grey;
+    margin-left: 25%;
+}
+#input
+{
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-color: black;
+    width: 85%;
+    margin-left: 7%;
+}
+#name
+{
+    font-size: 18px;
+    margin-left: 8%;
+}
